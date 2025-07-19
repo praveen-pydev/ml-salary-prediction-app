@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+
+# Ignore zip files
+*.zip
+
+# Saved models (Optional, but good practice if they are large)
+# For this project, we will NOT ignore them so the app is easy to run.
+# saved_models/ 
